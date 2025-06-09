@@ -1,8 +1,8 @@
 # Ignorar binários compilados
-#bin/
+bin/
 
 # Ignorar pacotes compilados
-#pkg/
+pkg/
 
 # Se quiser ignorar arquivos temporários do editor, adicione:
 *.exe
