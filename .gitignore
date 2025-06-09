@@ -1,0 +1,20 @@
+# Ignorar binários compilados
+bin/
+
+# Ignorar pacotes compilados
+pkg/
+
+# Se quiser ignorar arquivos temporários do editor, adicione:
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Ignorar arquivos do sistema e editor (opcional)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
